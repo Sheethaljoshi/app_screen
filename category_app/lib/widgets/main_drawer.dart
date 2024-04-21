@@ -49,7 +49,7 @@ class MainDrawer extends StatelessWidget {
                   fontSize: 24),
             ),
             onTap: () {
-              onSelectScreen('Meals');
+              onSelectScreen('meals');
             },
           ),
           ListTile(
